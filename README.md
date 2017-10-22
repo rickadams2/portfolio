@@ -23,5 +23,5 @@
  # Zend 
 
 ## mini-projects HTML5 & CSS3   
-[a link](https://github.com/rickadams2/CSSmuziekSpeler)
+[Motiverende CSS speler](https://github.com/rickadams2/CSSmuziekSpeler)
 
