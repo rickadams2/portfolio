@@ -1,27 +1,36 @@
 # Portfolio 
 
+# 304 Codesets 
+* Python 
+* Java 
+* C# 
+* PHP 
+* JavaScript 
+* SQL 
+
 ## Python 
  * desktop apps
- # webapps 
+ * webapps
+     * Blog 
 
 ## JAVA 
- # desktop apps
- # webapps 
+ * desktop apps
+ * webapps 
 
 # MEAN
- # webapps 
+ * webapps 
 
 # PWA (Progressive Web Apps)
- # webapps 
+  *  
 
 ## C#
- # desktop apps
+ * desktop apps
  
-## LAMP 
- # webapps
- # WordPress
- # Zend 
+## PHP
+ * Projects from scratch
+ * WordPress
+ * Zend 
 
-## mini-projects HTML5 & CSS3   
-[Motiverende CSS speler](https://github.com/rickadams2/CSSmuziekSpeler)
+## mini-projects (HTML5 & CSS3)   
+* [Motiverende CSS speler](https://github.com/rickadams2/CSSmuziekSpeler)
 
