@@ -1,6 +1,6 @@
 # Portfolio 
 
-# 304 Codesets 
+# 304 Codesets (for the jobinterview )
 * Python 
 * Java 
 * C# 
@@ -9,8 +9,7 @@
 * SQL 
 
 ## Python 
- * desktop apps
- * webapps
+ * 
      * Blog 
 
 ## JAVA 
@@ -23,8 +22,18 @@
      *
      *
      *
+     
+     Java apps
+     *
+     *
+     *
+     *   
+     *
+     *
+     *
+     *
  
- * webapps 
+ * Java webapps 
      *
      *
      *
@@ -58,10 +67,9 @@
      *
      *
      *
- 
-## PHP
- * Projects from scratch
-     *
+     
+     
+## Ruby on Rails 
      *
      *
      *
@@ -70,7 +78,9 @@
      *
      *
      *
- * WordPress
+ 
+## PHP
+ * Projects from scratch
      *
      *
      *
@@ -91,7 +101,6 @@
      *
      *
 
-
 ## SQL
      *
      *
@@ -101,6 +110,7 @@
      *
      *
      *
+     
 
 ## mini-projects (HTML5 & CSS3)   
 * [Motiverende CSS speler](https://github.com/rickadams2/CSSmuziekSpeler)
