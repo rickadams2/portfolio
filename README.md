@@ -90,14 +90,7 @@
      *
      *
      *
-## Regex 
-*
-*
-*
-*
-*
-*
-*
+
 
 ## SQL
      *
@@ -111,3 +104,13 @@
 
 ## mini-projects (HTML5 & CSS3)   
 * [Motiverende CSS speler](https://github.com/rickadams2/CSSmuziekSpeler)
+
+## Regex 
+*
+*
+*
+*
+*
+*
+*
+
