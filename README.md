@@ -1,7 +1,7 @@
 # Portfolio 
 
 ## Python 
- # desktop apps
+ * desktop apps
  # webapps 
 
 ## JAVA 
