@@ -15,22 +15,99 @@
 
 ## JAVA 
  * desktop apps
+     *
+     *
+     *
+     *   
+     *
+     *
+     *
+     *
+ 
  * webapps 
+     *
+     *
+     *
+     *   
+     *
+     *
+     *
+     *
+
 
 # MEAN
- * webapps 
-
+ *   *
+     *
+     *
+     *   
+     *
+     *
+     *
+     * 
+        
 # PWA (Progressive Web Apps)
   *  
 
 ## C#
- * desktop apps
+ * Desktop Apps
+     *
+     *
+     *
+     *   
+     *
+     *
+     *
+     *
  
 ## PHP
  * Projects from scratch
+     *
+     *
+     *
+     *
+     *   
+     *
+     *
+     *
+     *
  * WordPress
- * Zend 
+     *
+     *
+     *
+     *
+     *   
+     *
+     *
+     *
+     *
+     
+ * Zend
+     *
+     *
+     *
+     *   
+     *
+     *
+     *
+     *
+## Regex 
+*
+*
+*
+*
+*
+*
+*
+
+## SQL
+     *
+     *
+     *
+     *   
+     *
+     *
+     *
+     *
 
 ## mini-projects (HTML5 & CSS3)   
 * [Motiverende CSS speler](https://github.com/rickadams2/CSSmuziekSpeler)
-
