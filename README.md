@@ -1,6 +1,6 @@
 # Portfolio 
 
-# 304 Codesets (for the jobinterview :ok_hand: )
+# 304 Codesets (for the jobinterview )
 * Python 
 * Java 
 * C# 
@@ -125,4 +125,8 @@
 *
 *
 *
+
+## webscraping project
+* result: 
+* source: https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b 
 
