@@ -10,11 +10,10 @@
 * JavaScript 
 * SQL 
 
-# JAVA MOOCS
+# MOOCS 
  * 
-     *
-     *
-     *
+     * Software ontwerp en design specialisatie | UoA 
+     * (comming)
 
 
 # JAVA 
@@ -67,18 +66,18 @@
      *
      * 
 
-# MEAN
- *   *
-     *
-     *
-     *   
-     *
-     *
-     *
-     * 
+# Ruby on Rails 
+ *   * Reddit clone 
+     * Blog  
+     * Recipe Box 
+     * Pinterest clone  
+     * Movie review app  
+     * Jobboard 
+     * Wikipedia clona 
+     * Dribble clone 
      
 # VCC
-Divers Meanstack projects 
+ Meanstack projects 
 *
 *
 *
@@ -101,52 +100,48 @@ Divers Meanstack projects
      *
      *
      
-     
-## Ruby on Rails 
-     * 
-     *
-     *
-     *   
-     *
-     *
-     *
-     *
- 
 ## PHP
  * Projects from scratch
-     *
-     *
-     *
-     *
+     * Blog1 
+     * CMS1 
+     * Blog1 
+     * CMS1
+     * PakjespietBezorgApp
+ 
+ * Projects based on frameworks (Zend or Lara) 
+     * FB clone 
+     * Snap clone  
+     * Stackoverflow clone 
+     * Pinterest clone 
+     * TwitterBot 
+
+
+# SQL
+     * Learing SQL 
+     * Leer SQL op de moeilijke manier  
+     * 
      *   
      *
      *
      *
      *
      
- * Zend
-     *
-     *
-     *
-     *   
-     *
-     *
-     *
-     *
-
-## SQL
-     *
-     *
-     *
-     *   
-     *
-     *
-     *
-     *
+ # UML courses 
+     * See link  
      
+    
 
-## mini-projects (HTML5 & CSS3)   
+## mini-projects (JavaScript, HTML5 & CSS3)   
 * [Motiverende CSS speler](https://github.com/rickadams2/CSSmuziekSpeler)
+* Get-more-signups-with-cookies (DT)
+* ZoomingHeader (DT )
+* JavaScriptTemplating (DT) 
+* HTMLAndCSSslideOutNavigation  
+
+
+## mini-projects (JavaScript)
+
+
 
 ## Regex 
 *
@@ -159,7 +154,7 @@ Divers Meanstack projects
 
 ## Contributions
     * 
-    *
+    * 
     *
     *
   
