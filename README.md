@@ -10,13 +10,14 @@
 * JavaScript 
 * SQL 
 
-## Python 
+# JAVA MOOCS
  * 
-     * Blog 
-     * SocialSite   
-     * Blog 
-     * Blog 
-## JAVA 
+     *
+     *
+     *
+
+
+# JAVA 
  * desktop apps
      *
      *
@@ -37,7 +38,7 @@
      *
      *
  
- * Java webapps 
+ # Java webapps 
      *
      *
      *
@@ -47,6 +48,13 @@
      *
      *
 
+
+# Python 
+ * 
+     * Blog 
+     * SocialSite   
+     * Blog 
+     * Blog 
 
 # React, Redux 
      * Modern React with Redux
