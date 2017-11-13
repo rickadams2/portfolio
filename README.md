@@ -50,7 +50,7 @@
 
 # React, Redux 
      * Modern React with Redux
-        * [Motiverende CSS speler](https://github.com/rickadams2/CSSmuziekSpeler)
+   
      *
      *
      *   
