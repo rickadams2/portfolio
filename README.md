@@ -1,5 +1,7 @@
 # Portfolio 
 
+
+
 # 304 Codesets (for the jobinterview )
 * Python 
 * Java 
@@ -45,6 +47,17 @@
      *
      *
 
+
+# React, Redux 
+     * Modern React with Redux
+        * [Motiverende CSS speler](https://github.com/rickadams2/CSSmuziekSpeler)
+     *
+     *
+     *   
+     *
+     *
+     *
+     * 
 
 # MEAN
  *   *
@@ -135,6 +148,13 @@ Divers Meanstack projects
 *
 *
 *
+
+## Contributions
+    * 
+    *
+    *
+    *
+  
 
 ## webscraping project
 * result: 
