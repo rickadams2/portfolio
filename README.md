@@ -1,5 +1,7 @@
 # Portfolio 
 
+# for the fun
+https://www.codewars.com/
 
 # 304 Codesets (for the jobinterview :ok_hand:)
 * Python 
@@ -195,11 +197,11 @@
 *
 *
 
-# Contributions 
+# merged contributions 
     * 
     * 
     *
-    *
+ 
   
 
 ## webscraping project
@@ -207,5 +209,7 @@
 * source: https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b 
 
 
-
-
+# Rickpedia 
+ * [Motiverende CSS speler](https://www.codementor.io/learn-programming/how-to-become-a-developer-resources )
+ 
+ * [Bento.io] ( https://bento.io/ )
