@@ -1,6 +1,7 @@
 # Portfolio 
 
-
+#Rin 
+ ** UTL
 
 # 304 Codesets (for the jobinterview )
 * Python 
@@ -50,10 +51,11 @@
 
 # Python 
  * 
-     * Blog 
-     * SocialSite   
-     * Blog 
-     * Blog 
+     * Blog (LD)
+     * SocialSite  (LD)  
+     * OnlineShop  (LD)
+     * ElearningSite (LD)
+     * OpenCV-Python
 
 # React, Redux 
      * Modern React with Redux
@@ -89,7 +91,7 @@
 # PWA 
   *  
 
-## C#
+# C#
  * Desktop Apps
      *
      *
@@ -100,20 +102,20 @@
      *
      *
      
-## PHP
+# PHP
  * Projects from scratch
-     * Blog1 
-     * CMS1 
-     * Blog1 
-     * CMS1
-     * PakjespietBezorgApp
+     * Blog1 (LD)
+     * CMS1 (LD)
+     * Blog1 (CC)
+     * CMS1 (CC)
+     * PakjesPietBezorgApp 
  
- * Projects based on frameworks (Zend or Lara) 
-     * FB clone 
-     * Snap clone  
-     * Stackoverflow clone 
-     * Pinterest clone 
-     * TwitterBot 
+ # Projects based on frameworks (Zend or Lara) 
+     * FB clone (CC)
+     * Snap clone  (CC)
+     * Stackoverflow clone (CC) 
+     * Pinterest clone (CC)
+     * TwitterBot (CC)
 
 
 # SQL
@@ -127,8 +129,7 @@
      *
      
  # UML courses 
-     * See link  
-     
+     * See curriculum viae  
     
 
 ## mini-projects (JavaScript, HTML5 & CSS3)   
@@ -152,7 +153,7 @@
 *
 *
 
-## Contributions
+# Contributions 
     * 
     * 
     *
