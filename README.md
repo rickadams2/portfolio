@@ -14,7 +14,7 @@ https://www.codewars.com/
 # MOOCS 
  * 
      * Software ontwerp en design specialisatie | UoA 
-     * (comming)
+     * UML 
 
 
 # JAVA desktop apps #1
