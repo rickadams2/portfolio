@@ -1,5 +1,16 @@
 # Portfolio 
 
+
+# RTFM 
+ React https://reactjs.org/docs/ 
+ Java  
+ https://github.com/MunGell/awesome-for-beginners
+ 
+# merged contributions 
+    * 
+    * 
+    *
+
 # for the fun
 https://www.codewars.com/
 
@@ -197,10 +208,7 @@ https://www.codewars.com/
 *
 *
 
-# merged contributions 
-    * 
-    * 
-    *
+
  
   
 
