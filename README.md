@@ -1,12 +1,15 @@
 # Portfolio 
 
 
-# RTFM 
- React https://reactjs.org/docs/ 
- Java  
+# RTFM / tuts  
+
+ Python https://docs.djangoproject.com/en/1.11/intro/tutorial01/
+ Java    
+ React  https://reactjs.org/docs/ 
+
  https://github.com/MunGell/awesome-for-beginners
  
-# merged contributions 
+# Merged contributions 
     * 
     * 
     *
