@@ -1,15 +1,15 @@
 # Portfolio 
 
 
-# RTFM / tuts  
-
-
-## OOP
+# OOP RTFM / tut  
  Python https://docs.djangoproject.com/en/1.11/intro/tutorial01/
  Java    
  React  https://reactjs.org/docs/ 
 
- https://github.com/MunGell/awesome-for-beginners
+# Frontend RTFM / tut 
+https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+https://github.com/MunGell/awesome-for-beginners
+ 
  
 # Merged contributions 
     * 
@@ -81,6 +81,19 @@ https://www.codewars.com/
      * OnlineShop  (LD)
      * ElearningSite (LD)
      * OpenCV-Python
+
+# Pyhon books 
+Learn Python The Hard Way: 
+Think Python: How to Think Like a Computer Scientist: 
+Dive Into Python 3: 
+Core Python Programming: 
+The Quick Python Book:
+Beginning Python: 
+Hello World!: 
+Python Programming for the Absolute Beginner
+Python Essential Reference
+Python Cookbook
+Violent Python
 
 # React, Redux 
      * Modern React with Redux
