@@ -11,6 +11,9 @@ https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
 https://github.com/MunGell/awesome-for-beginners
  
  
+ # software design and architecture
+ * Software Architecture & Design https://www.udacity.com/course/software-architecture-design--ud821
+ 
 # Merged contributions 
     * 
     * 
