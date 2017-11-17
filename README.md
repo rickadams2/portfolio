@@ -3,6 +3,8 @@
 
 # RTFM / tuts  
 
+
+## OOP
  Python https://docs.djangoproject.com/en/1.11/intro/tutorial01/
  Java    
  React  https://reactjs.org/docs/ 
@@ -42,7 +44,7 @@ https://www.codewars.com/
      *
    
 # JAVA desktop apps #2
-     *
+     * Download manager 
      *
      *
      *   
