@@ -244,6 +244,7 @@ Violent Python
 # Rickpedia 
  * [Motiverende CSS speler](https://www.codementor.io/learn-programming/how-to-become-a-developer-resources )
  * [Bento.io] ( https://bento.io/ )
+ * [How to get unstuck / Debug / TDD ](https://codewithoutrules.com/2016/12/08/how-not-to-get-stuck/)
  
  
  # Networking tips 
