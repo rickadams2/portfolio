@@ -4,7 +4,7 @@
 *repo [https://github.com/rickadams2/CodeSets]
  
 # C#
- * repo [https://github.com/rickadams2/PHPPortfolio/].
+ * repo [https://github.com/rickadams2/ccharpProjects].
 
 # JAVA
   * repo [https://github.com/rickadams2/JAVAPortfolio/].
