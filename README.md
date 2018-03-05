@@ -16,15 +16,12 @@
  * repo [    https://github.com/rickadams2/PythonPortfolio]
 
 # SQL
-  * repo [https://github.com/rickadams2/SQLPortfolio/].  
- 
- # software design and architecture
- * Software Architecture & Design https://www.udacity.com/course/software-architecture-design--ud821
+  * repo [https://github.com/rickadams2/SQLPortfolio/]. 
      
-# Frontend 
+# JavaScript-HTML-CSSPortfolio
  * repo [    https://github.com/rickadams2/JavaScriptPortfolio/]
      * HTML, CSS, SASS 
-     * JavaScript 
+     * JavaScript, React/Redux 
       * Bootstrap 
       
 # Ruby on Rails
