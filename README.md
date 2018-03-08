@@ -2,30 +2,30 @@
 
 
 
-# 304 Codesets (for the jobinterview :ok_hand:)
+**304 Codesets (for the jobinterview :ok_hand:)**
 *repo [https://github.com/rickadams2/CodeSets]
  
-# C#
+**C#**
  * repo [https://github.com/rickadams2/CsharpProjects].
 
-# JAVA
+**JAVA**
   * repo [https://github.com/rickadams2/JAVAPortfolio/].
   
-  # PHP
+ **PHP**
  * repo [https://github.com/rickadams2/PHPPortfolio/].
  
- # Python 
- * repo [    https://github.com/rickadams2/PythonPortfolio]
-
-# SQL
+ **SQL**
   * repo [https://github.com/rickadams2/SQLPortfolio/]. 
      
-# JavaScript-HTML-CSSPortfolio
+**JavaScript-HTML-CSSPortfolio**
  * repo [    https://github.com/rickadams2/JavaScriptPortfolio/]
      * HTML, CSS, SASS 
      * JavaScript, React/Redux 
       * Bootstrap 
-      
+
+ **Python** 
+ * repo [    https://github.com/rickadams2/PythonPortfolio]
+
 # Ruby on Rails
  * repo [    https://github.com/rickadams2/RubyOnRailsPortfolio/]
 
