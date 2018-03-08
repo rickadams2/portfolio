@@ -26,7 +26,7 @@
  **Python** 
  * repo [    https://github.com/rickadams2/PythonPortfolio]
 
-# Ruby on Rails
+**Ruby on Rails**
  * repo [    https://github.com/rickadams2/RubyOnRailsPortfolio/]
 
 
