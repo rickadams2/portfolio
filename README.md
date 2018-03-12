@@ -6,7 +6,7 @@
 *repo [https://github.com/rickadams2/CodeSets]
  
 **C#**
- * repo [https://github.com/rickadams2/CsharpProjects].
+ * repo [https://github.com/rickadams2/CsharpPortfolio].
 
 **JAVA**
   * repo [https://github.com/rickadams2/JAVAPortfolio/].
