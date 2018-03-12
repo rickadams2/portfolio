@@ -1,10 +1,5 @@
 # Portfolio 
 
-
-
-**304 Codesets (for the jobinterview :ok_hand:)**
-*repo [https://github.com/rickadams2/CodeSets]
- 
 **C#**
  * repo [https://github.com/rickadams2/CsharpPortfolio].
 
