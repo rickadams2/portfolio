@@ -1,7 +1,7 @@
 **Information systems** 
 Designing and realizing on a substantive description. Design techniques, diagram techniques UML, ERD, setup client / server database, relational database, SQL.
 
-* [** repo**](https://github.com/rickadams2/SQLPortfolio) 
+* [**repo**](https://github.com/rickadams2/SQLPortfolio) 
 
 ----------
 
