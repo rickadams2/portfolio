@@ -1,7 +1,7 @@
 **Information systems** 
 Designing and realizing on a substantive description. Design techniques, diagram techniques UML, ERD, setup client / server database, relational database, SQL.
 
-**See the** [**SQL repo**](https://github.com/rickadams2/SQLPortfolio/%5D) 
+* [**SQL repo**](https://github.com/rickadams2/SQLPortfolio/%5D) 
 
 ----------
 
@@ -23,6 +23,7 @@ Introduction to programming. Simple data types, algorithms and editing with proc
 ----------
 **Object oriented software enginering**
  Objects, classes, interfaces, polymorphism, inherentance, data encapsulation and larger architectures, design paterns, sorting algorithms
+
 **JAVA**
   * [repo](https://github.com/rickadams2/JAVAPortfolio/)
 
@@ -54,8 +55,7 @@ HTML5, CSS3, JavaScript, React, Node, D3, Ajax.
 
 ----------
 
-
-**Secure enterprice archectures**
+**Secure enterprice archectures** 
 REST-api's JMS-systems, OTAPS, continuous integration, Dev-Ops
   * [Secure enterprice archectures repo](https://github.com/rickadams2/dummyURL/)
 ----------
