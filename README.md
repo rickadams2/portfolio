@@ -22,7 +22,7 @@ Introduction to programming. Simple data types, algorithms and editing with proc
 
 ----------
 **Object oriented software enginering**
- Objects, classes, interfaces, polymorphism, inherentance, data encapsulation and larger architectures, design paterns, sorting algorithms
+ Objects, classes, interfaces, polymorphism, inherentance, data encapsulation and larger architectures, design paterns, TDD, sorting algorithms. 
 
 **JAVA**
   * [repo](https://github.com/rickadams2/JAVAPortfolio/)
@@ -48,7 +48,7 @@ Introduction to programming. Simple data types, algorithms and editing with proc
 
 **Webapplications**
 
-HTML5, CSS3, JavaScript, React, Node, D3, Ajax.
+HTML5, CSS3, JavaScript, React, Node, D3, Ajax, responsive development, Bootstrap, Sass.
   * [Webapplications repo](https://github.com/rickadams2/dummyURL/)
  
 
@@ -56,7 +56,7 @@ HTML5, CSS3, JavaScript, React, Node, D3, Ajax.
 ----------
 
 **Secure enterprice archectures** 
-REST-api's JMS-systems, OTAPS, continuous integration, Dev-Ops
+REST-api's JMS-systems, OTAPS, continuous integration, Dev-Ops.
   * [Secure enterprice archectures repo](https://github.com/rickadams2/dummyURL/)
 ----------
 
