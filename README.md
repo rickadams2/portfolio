@@ -14,7 +14,7 @@ Introduction to programming. Simple data types, algorithms and editing with proc
   * [repo](https://github.com/rickadams2/JAVAPortfolio/)
 
 **C#**
-* [repo](https://github.com/rickadams2/CsharpPortfolio%5D)
+* [repo](https://github.com/rickadams2/CsharpPortfolio)
   
  **PHP**
  * [repo](https://github.com/rickadams2/PHPPortfolio/) 
@@ -28,7 +28,7 @@ Introduction to programming. Simple data types, algorithms and editing with proc
   * [repo](https://github.com/rickadams2/JAVAPortfolio/)
 
 **C#**
- * [repo](https://github.com/rickadams2/CsharpPortfolio%5D) 
+ * [repo](https://github.com/rickadams2/CsharpPortfolio) 
   
  **PHP**
  * [repo](https://github.com/rickadams2/PHPPortfolio/) 
