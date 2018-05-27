@@ -50,7 +50,7 @@ Introduction to programming. Simple data types, algorithms and editing with proc
 
 HTML5, CSS3, JavaScript, React, Node, D3, Ajax, responsive development, Bootstrap, Sass.
   * [Webapplications repo](https://github.com/rickadams2/dummyURL/)
- 
+  * [FrontendPortfolio] (https://github.com/rickadams2/FrontendPortfolio/)
 
 
 ----------
