@@ -40,7 +40,8 @@ Introduction to programming. Simple data types, algorithms and editing with proc
 
 **Databases**
  Advanced databases, optimization of the performance of databases, the design of large (scalable) databases and the security of databases. Programming in the database; stored procedures, triggers, transactions ect.
-  * [SQL repo](https://github.com/rickadams2/SQLPortfolio/) 
+* [SQL repo](https://github.com/rickadams2/SQLPortfolio/)
+* [NoSQL repo](https://github.com/rickadams2/NoSQLPortfolio/)
   
 
 
