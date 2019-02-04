@@ -1,1 +1,1 @@
-Open  [portfolio-wiki](https://github.com/rickadams2/portfolio/wiki) 
+Open  [portfolio-wiki](https://github.com/rickadams2/portfolio/wiki) :ok_hand:
